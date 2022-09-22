@@ -1,0 +1,42 @@
+.section1 {
+  color: #F70D98;
+  color: red;
+  margin: auto;
+  margin-bottom: 40px;
+  padding: 5px section2;
+  padding-color: white;
+}
+
+header {
+  color: wheat;
+  background-color: 2D2A2A;
+  width: 100%;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+}
+header header a {
+  color: red;
+  padding: 45%;
+}
+header header a ul {
+  color: white;
+  display: flex;
+  gap: 30px;
+  justify-content: space-around;
+  width: 60%;
+  margin: auto;
+  padding: 12px;
+}
+header header a ul .titulo {
+  padding: 3px;
+  background-color: #080808;
+  color: red;
+  text-align: center;
+}
+
+main {
+  color: beige;
+  width: 50%;
+  height: 40px;
+}/*# sourceMappingURL=estilo.css.map */
