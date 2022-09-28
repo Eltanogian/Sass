@@ -10,21 +10,22 @@ header {
         color: red;
         padding: 45%;
 
-        ul {
-            color: white;
-            display: flex;
-            gap: 30px;
-            justify-content: space-around;
-            width: 60%;
-            margin: auto;
-            padding: 12px;
-            .titulo {
-                padding: 3px;
-                background-color: $titulobackgraundcolor;
-                color: red;
-                text-align: center;
-            
-            }
-        }
+       
+    }
+}
+ul {
+    color: white;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+    padding: 12px;
+    .titulo {
+        padding: 3px;
+        background-color: $titulobackgraundcolor;
+        color: red;
+        text-align: center;
+    
     }
 }

@@ -3,13 +3,15 @@
   color: red;
   margin: auto;
   margin-bottom: 40px;
-  padding: 5px section2;
-  padding-color: white;
+  padding: 5px;
+}
+.section1 section2 {
+  color: white;
 }
 
 header {
   color: wheat;
-  background-color: 2D2A2A;
+  background-color: #2D2A2A;
   width: 100%;
   display: inline-block;
   justify-content: space-between;
@@ -19,7 +21,8 @@ header header a {
   color: red;
   padding: 45%;
 }
-header header a ul {
+
+ul {
   color: white;
   display: flex;
   gap: 30px;
@@ -28,7 +31,7 @@ header header a ul {
   margin: auto;
   padding: 12px;
 }
-header header a ul .titulo {
+ul .titulo {
   padding: 3px;
   background-color: #080808;
   color: red;
